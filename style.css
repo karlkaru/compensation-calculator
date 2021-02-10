@@ -1,0 +1,62 @@
+body{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 520;
+
+}
+
+.input-group-text {
+    background-color: white;
+    font-weight: 550;
+}
+
+#buttonCalculate {
+    margin-left: 2%;
+    margin-top: 5%;
+    background: rgb(3,3,4);
+    background: linear-gradient(90deg, rgba(3,3,4,0.6502976190476191) 0%, rgba(187,9,9,1) 40%);
+    color: white;
+    border-radius: 40px;
+    border: none;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: large;
+}
+
+.sum{
+    font-size: x-large;
+    font-weight: 550;
+}
+
+.days{
+    font-weight: 550;
+}
+
+#totalCompensation{
+    font-size: xx-large;
+    font-weight: 550;
+}
+
+#totalComp{
+    margin-top: 10%;
+}
+
+
+p{
+   line-height: 80%;
+   margin-bottom: -25px;
+}
+
+#compensationArea{
+    border-bottom: gray;
+    border-top: black;
+}
+
+h1{
+    font-weight: 1000;
+}
+
+#results{
+    display: none;
+}
