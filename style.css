@@ -35,12 +35,23 @@ body{
 
 
 #totalCompensation{
-    font-size: xx-large;
-    font-weight: 550;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: center;
+    
 }
 
 #totalComp{
     margin-top: 10%;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 15px;
+    letter-spacing: 0em;
+    text-align: center;
 }
 
 
@@ -52,10 +63,7 @@ p{
     font-size: 14px;
 }
 
-#compensationArea{
-    border-bottom: gray;
-    border-top: black;
-}
+
 
 h1{
     font-family: Sora;
@@ -124,10 +132,6 @@ font-size: 18px;
 line-height: 30px;
 }
 
-#individualComp{
-width: 130px;
-height: 45px;
-}
 
 #employerCompensationSum{
     font-style: normal;
@@ -141,6 +145,20 @@ height: 45px;
     font-weight: bold;
     font-size: 18px;
     line-height: 20px;
+}
+
+#employerCompensationDays{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 15px;
+}
+
+#insuranceCompensationDays{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 15px;
 }
 
 #dailyAllowanceEmployerLabel{
