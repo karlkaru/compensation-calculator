@@ -1,5 +1,4 @@
 
-
 function compensation() {
     totalCompensation = 0;
     grossincome = document.getElementById("grossincome").value;

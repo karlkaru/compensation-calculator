@@ -1,13 +1,9 @@
-
 body{
     margin: auto;
     font-family: Sora;
-
     height: 755px;
     width: 320px;
-
     border-radius: 0px;
-    
 }
 
 .input-group-text {
@@ -16,7 +12,6 @@ body{
 }
 
 #buttonCalculate {
-    
     align-items: flex-start;
     width: 194px;
     height: 60px;
@@ -28,8 +23,7 @@ body{
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.4);
     font-style: normal;
     font-weight: bold;
-    font-size: 18px;    
-    
+    font-size: 18px;       
 }
 
 #buttonCalculate:hover{
@@ -67,7 +61,6 @@ body{
     line-height: 30px;
     letter-spacing: 0em;
     text-align: center;
-    
 }
 
 #totalComp{
@@ -111,8 +104,6 @@ h1{
     border-radius: 4px;
     height: 50px;
     width: 280px;
-
-
 }
 
 #sickleave{
@@ -121,7 +112,6 @@ h1{
     width: 280px;
     border-radius: 4px;
     background: #FFFFFF;
-
 }
 
 #inputLabel{
@@ -139,24 +129,24 @@ h1{
 };
 
 #inputField{
-padding-right:20px; 
-text-align:left;
+    padding-right:20px; 
+    text-align:left;
 }
 
 #inputUnitIncome{
-margin-left:-20px;
-font-style: normal;
-font-weight: bold;
-font-size: 18px;
-line-height: 30px;
+    margin-left:-20px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 30px;
 }
 
 #inputUnitDays{
-margin-left:-50px;
-font-style: normal;
-font-weight: bold;
-font-size: 18px;
-line-height: 30px;
+    margin-left:-50px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 30px;
 }
 
 
